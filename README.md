@@ -1,8 +1,11 @@
-![titleBanner](https://user-images.githubusercontent.com/98838657/229349827-b28478ce-ec89-4224-bd93-4a87c8e70e1e.png)
+# Unity Runner Game
 
 ## Introduction
 Simple Runner is a sample infinite runner game created on the unity engine in order to learn how to create games and design it`s architecture.
-This project is open source.
+
+## Preview
+
+<img src="./Preview/preview.png" width="400" height="200" />
 
 ## Packages used
  - Unity Version 2021.3.16f1
@@ -22,7 +25,5 @@ Level gameplay is based on Ecs. Level progress is controlled by the state machin
  - Builds configuration. 
 
 ## Releases
-See [here](https://github.com/Kot-Alenya/Simple-Runner/releases).
+See [here](https://github.com/JorgePerezGarcia/My-Runner).
 
-## License
-See [here](LICENSE.txt).
